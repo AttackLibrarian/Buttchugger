@@ -1,0 +1,18 @@
+# Telegram API library, because duh
+telethon==1.30.0
+
+# Async HTTP support for gremlin shenanigans
+aiohttp>=3.8.0
+
+# Fast JSON for logging the chaos
+orjson>=3.9.0
+
+# Optional: image/video manipulation for meme-forwarding
+Pillow>=10.0.0
+moviepy>=1.0.3
+
+# Optional: schedule stuff if you want your chaos timed
+apscheduler>=3.10.1
+
+# Optional: progress bars so you can watch your digital degeneracy happen
+tqdm>=4.65.0
